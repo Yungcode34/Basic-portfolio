@@ -58,7 +58,7 @@ h1{
     text-decoration: none;
 }
 body{
-    background-image: url("../images/gray-2412504_1280.jpg");
+    background-color: lightgray;
     width: 100%;
 }
 .about-container{
@@ -215,7 +215,8 @@ input{
 #box-5 {
     height: 200px;
     width: 200px;
-    background-image: url("assets/images/pubg.jpg")
+    background-image: url("/images/pubg.jpg")
+
 }
 #box-3text{
     font-size: 18px;
